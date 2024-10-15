@@ -1,0 +1,7 @@
+import webbrowser
+
+# URL of the website
+url = "http://www.unitec.ac.nz"
+
+# Open URL in default web browser
+webbrowser.open(url)
